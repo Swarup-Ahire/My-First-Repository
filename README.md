@@ -7,5 +7,9 @@ This repository marks the official start of my programming journey. It is a spac
 # What This Project Tracks
 * First Steps: The file Starting_Journey.py captures my initial experience with cloning, staging, and committing code.
 * Core Concepts: It serves as a personal log of my progress in learning how to interact with the terminal, manage Git repositories, and run basic scripts.
+## Tech Stack
+* **Language:** Python
+* **Tools:** Git, GitHub, VS Code
+
 # Why I Created This
 I wanted to establish a clean, recordable history of my learning process. By documenting my "first commit," I am creating a timeline of my growth as a developer—starting from the very basics and moving toward building more complex applications.
