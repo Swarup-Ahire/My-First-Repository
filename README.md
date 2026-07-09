@@ -1,5 +1,5 @@
 # My Programming Journey
-Documenting the transition from foundational concepts to scalable architecture.
+Documenting the transition from foundational concepts to scalable architecture. I am establishing this space to track my evolution from writing my first lines of code to mastering industry-standard development workflows.
 
 "I prefer progress over perfection. This file marks the beginning of a long-term commitment to continuous improvement and technical exploration."
 
