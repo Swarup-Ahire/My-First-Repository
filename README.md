@@ -1,6 +1,8 @@
-# Documenting the transition from foundational concepts to scalable architecture.
-"I prefer progress over perfection. This file marks the beginning of a long-term commitment to continuous improvement and technical exploration."
 # My Programming Journey
+Documenting the transition from foundational concepts to scalable architecture.
+
+"I prefer progress over perfection. This file marks the beginning of a long-term commitment to continuous improvement and technical exploration."
+
 This repository marks the official start of my programming journey. It is a space where I document the fundamental skills I am acquiring, specifically focusing on version control and basic Python syntax.
 # What This Project Tracks
 * First Steps: The file Starting_Journey.py captures my initial experience with cloning, staging, and committing code.
