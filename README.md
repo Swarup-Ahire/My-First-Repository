@@ -6,6 +6,7 @@ Documenting the transition from foundational concepts to scalable architecture. 
 This repository marks the official start of my programming journey. It is a space where I document the fundamental skills I am acquiring, specifically focusing on version control and basic Python syntax.
 ## What This Project Tracks
 * First Steps: The file Starting_Journey.py captures my initial experience with cloning, staging, and committing code.
+* Version Control Habits: It tracks my transition from manual file management to using Git commands, ensuring that every code change is documented and reversible.
 * Core Concepts: It serves as a personal log of my progress in learning how to interact with the terminal, manage Git repositories, and run basic scripts.
 ## Tech Stack
 * **Language:** Python
